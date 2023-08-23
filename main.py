@@ -3,8 +3,8 @@ import requests
 import json
 import datetime
 
-bot = telebot.TeleBot('6536600260:AAHr6yh0dTfAJHRAlSyo65vfiKY6bj5ph_U')
-API = '76f0c7ecdf12436a9dff6fe548857a04'
+bot = telebot.TeleBot('6536600260:AAHr6yh0dTfAJHR65vfiKY6bj5ph_U')
+API = '76f0c7ecdf12436a9e548857a04'
 
 
 @bot.message_handler(commands=['start'])
